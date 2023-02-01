@@ -1,7 +1,7 @@
 {
-    "name": "casper",
-    "description": "A clean, minimal default theme for the Ghost publishing platform",
-    "demo": "https://demo.ghost.io",
+    "name": "casper-ptbr",
+    "description": "O tema padrão do Ghost, traduzido para pt-br. Original: https://github.com/TryGhost/Casper",
+    "demo": "https://blog.gabrieljs.online",
     "version": "5.4.5",
     "engines": {
         "ghost": ">=5.0.0"
